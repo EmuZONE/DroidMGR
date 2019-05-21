@@ -1,0 +1,9 @@
+https://mirror.dogecloud.org/Linux/Mint/stable/19.1/linuxmint-19.1-cinnamon-64bit.iso
+http://mirror.bauhuette.fh-aachen.de/linuxmint-cd/stable/19.1/linuxmint-19.1-cinnamon-64bit.iso
+https://ftp.fau.de/mint/iso/stable/19.1/linuxmint-19.1-cinnamon-64bit.iso
+http://ftp5.gwdg.de/pub/linux/debian/mint/stable/19.1/linuxmint-19.1-cinnamon-64bit.iso
+http://mirror.netcologne.de/linuxmint/iso/stable/19.1/linuxmint-19.1-cinnamon-64bit.iso
+http://mirror.wtnet.de/linuxmint-cd/stable/19.1/linuxmint-19.1-cinnamon-64bit.iso
+http://mint.mirror.root.lu/isos/stable/19.1/linuxmint-19.1-cinnamon-64bit.iso
+http://mirror.vutbr.cz/linuxmint/cd/linuxmint.com/stable/19.1/linuxmint-19.1-cinnamon-64bit.iso
+http://mirrors.dotsrc.org/linuxmint-cd/stable/19.1/linuxmint-19.1-cinnamon-64bit.iso
